@@ -12,8 +12,8 @@
 CARGO
 recent situation
 how to get out
-flight control guide
-Flight Combat Guide
+Guía de Vuelo
+Guía de Combate Aéreo
 IDCARD
 Decanes
 move
@@ -24,7 +24,7 @@ yes_entry
 no_entry
 Key_Original
 Archaben
-Place
+¿Dónde estoy?
 your job is
 Are you the magician's daughter?
 who are you
@@ -38,10 +38,10 @@ place designation
 reset stats
 Decanes Mine
 Cell
-flight control guide
-Flight Combat Guide
-purchase
-faint
+Guía de Vuelo
+Guía de Combate Aéreo
+¿Tiendas?
+¿Muerte?
 Kkeep~ Kind-hearted humans and Kikuns. Please do my request.
 father's burden
 It's strange that humans come here.
@@ -446,24 +446,24 @@ it's the same It's really the same. You're great too, huh heh heh.
 In their respective sanctuaries they will awaken and become true heroes.
 I am the Elementor Sage <Kurzril Lambrite> who is working on documenting the biography of the Elementor hero Lillip, hahaha.
 Only those who are full of wisdom can support Lilib's will. fill your wisdom.
-It is a station of Dior that provides flight information.
+¡Bienvenido a la #b#cff0000ffEstación de Dior#nc#nb! Puedes encontrar #b#cffff0000información sobre el vuelo#nc#nb aquí.
 Whatever it is, please help me, okay?
-Our family has been managing this station from generation to generation. All were great people. I want to be like that too.
-It's called <Dior Christine>, who manages the best station in the city of Plaline.
- 1. Purchase a flying broom or board at the station.\n 2. Drag or double-click the board or broom icon from the inventory window to the mounting location at the bottom right of the window to board.
- 3. Press the space bar to start the aircraft.
- 4. You can move the aircraft in the desired direction by clicking the right mouse button and moving it.\n You can change the direction not only with the mouse but also with the W,S,A,D keys on the keyboard.
- 5. Let me give you a tip. If you double-click the right button, you can change the direction of the aircraft even if you move the mouse without holding down the right button.
- 6. All types of aircraft can be boarded regardless of occupation.
- This was a basic flight guide. The rest is up to you. Have a great flight
- 1. A box will appear around the monsters in your field of view when you reach a certain distance from the flying monster while riding the vehicle.
- 2. Press the Tab key to target sequentially. You can also do this by clicking the left mouse button.
- 3. If you approach the targeted monster and click the left mouse button or press the Insert key, it will attack.\n 4. If you press the Z key while being targeted, it will automatically follow the target.
+Mi familia ha administrado la Estación de Flarine durante generaciones. Estoy orgullosa de seguir con la tradición.
+Mi nombre es Dior Christin. He vivido en Flarine toda mi vida y amo este lugar. ¡Mírame, no puedo dejar de rebotar! De todos modos, administro la estación aquí, ¡así que avísame si tienes alguna pregunta!
+ 1. Primero, necesitarás comprar una escoba o una tabla y tener al menos el nivel 20 para poder volar.\n 2. Después, haz doble click en la tabla o la escoba en su inventario o simplemente muévela a una tecla de acceso rápido para subir a bordo.
+ 3. Presiona la Barra Espaciadora para acelerar el vehículo volador. Presiona la Barra Espaciadora de nuevo para frenar. Piensa en el acelerador como un botón de alternancia entre *Acelerar* y *Frenar*.
+ 4. Para navegar, mantén presionado el botón derecho del ratón y mueve la cámara en la dirección en la que quieras ir. Alternativamente, también puedes usar las Teclas W,A,S y D para girar.
+ 5. Además, puedes hacer click en el botón derecho del ratón dos veces para bloquear la cámara. Esto te permite navegar sin mantener presionado el botón derecho del ratón. Si vuelves a hacer click dos veces, se desactivará este efecto.
+ 6. Cualquiera puede volar en Madrigal. ¡Simplemente tienes que adquirir un vehículo volador!\n 7. Existen numerosas marcas y modelos de vehículos voladores. Intenta comprar en las tiendas de los jugadores o haz click en el icono de Tienda de Artículos Premiun junto al Botón de Inicio.
+ Espero que la información te haya sido de ayuda. ¡Sigue tu destino, aviador! ¡Nos vemos en las nubes!
+ 1. Ocasionalmente, te econtrarás con algunos masquerpets molestos mientras vuelas. Verás un cuadro rojo que los marca.
+ 2. Puedes apuntar a estas criaturas con el Botón Izquierdo del Ratón. Si los pierdes de vista mientras vuelas, aparecerá una flecha verde en el borde de la pantalla para indicar en qué dirección debes girar.
+ 3. Para atacar a la criatura, simplemente acércate lo máximo que puedas y pulsa el Botón Izquierdo del Ratón o la Tecla Insertar.\n 4. Si quieres seguir al monstrue automáticamente, pulsa la Tecla Z.
  5. Items obtained by winning flight battles are automatically acquired as inventory.
  6. By default, the pick-up action is assigned to the F3 key of the first quickslot, but items obtained by winning a flying battle are automatically acquired as inventory, so there is no need to use them.
  7. During flight, Mercenary and Assist perform a single melee attack regardless of weapon, and in the case of a Magician, a long-range derivative fire attack when equipped with a wand, and a melee single attack when equipped with a staff.
  We hope you enjoy the wonderful flight and thrilling battles.
-Safety rules are essential! Did you know? Have a nice flight.
+¡Adiós, aventurero! No dudes en volver a visitarnos si tienes alguna pregunta sobre el vuelo.
 heh heh. Looks like I'm in shape here. It's not awkward at all. Isn't it? heh heh.
 All life will be extinguished one by one. Under their play, I will crumble like that.
 I call the brilliant Billposter sage <Domek Illusian> who works to document the biography of the Billposter hero Loentel.
@@ -616,9 +616,9 @@ Taste the fantastic food created by Madrigal genius Yorasa Roya.
 All food sold in this store is hand-crafted. Because there can be no taste. Ho Ho
 I am <Loya Enclean> who runs a food store LaLaen with my sister Rocha and is in charge of the chef.
 Goodbye, hoho.
-Sells all of the Drifter and shields.
+¿Eres un Vagrant? ¿Necesitas armas o armaduras? ¡Tengo lo que necesitas!
 Hahaha, there are a variety of items available, so please choose as much as you like. ha ha ha
-Mi nombre es Luda y dirijo la Tienda Vagrant de Flarine. Abrí esta tienda después de que Boboku y Boboko dejaron de vender artículos Vagrant. ¡Ahora tengo todo el mercado, jajaja!
+My name is Luda, the owner of <Wanderer Shop>, which opened a new shop after taking over the Drifter supplies and shields from Boboku and Boboko. heh heh heh
 I hope you have a wonderful adventure.
 Everything is there. There is nothing there. Louie's general store!
 Now, I want you to do these things...

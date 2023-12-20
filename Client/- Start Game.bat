@@ -1,2 +1,2 @@
 @ECHO OFF
-Neuz.exe sunkist
+start /B Neuz.exe sunkist
