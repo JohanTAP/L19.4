@@ -42,12 +42,12 @@
 
 #ifdef __3RD_LEGEND16
 
-#define MAX_LEGEND_LEVEL			130			// 히어로 캐릭 최고 레벨
+#define MAX_LEGEND_LEVEL			129			// 히어로 캐릭 최고 레벨
 
 #if __VER >= 17
 
-#define MAX_3RD_LEGEND_LEVEL		150			// 3차 전직 캐릭 최고 레벨 ( 139 -> 150 확장 )
-#define MAX_CHARACTER_LEVEL			150			// 기존 MAX_LEVEL 을 대체..캐릭터가 가질 수 있는 최고 레벨.. ( 139 -> 150 확장 )
+#define MAX_3RD_LEGEND_LEVEL		160			// 3차 전직 캐릭 최고 레벨 ( 139 -> 150 확장 )
+#define MAX_CHARACTER_LEVEL			160			// 기존 MAX_LEVEL 을 대체..캐릭터가 가질 수 있는 최고 레벨.. ( 139 -> 150 확장 )
 
 #else // __VER >= 17
 
@@ -58,8 +58,8 @@
 
 #else // __3RD_LEGEND16
 
-#define MAX_LEGEND_LEVEL			129
-#define MAX_CHARACTER_LEVEL			129			// 기존 MAX_LEVEL 을 대체..캐릭터가 가질 수 있는 최고 레벨..
+#define MAX_LEGEND_LEVEL			160
+#define MAX_CHARACTER_LEVEL			160			// 기존 MAX_LEVEL 을 대체..캐릭터가 가질 수 있는 최고 레벨..
 
 #endif // __3RD_LEGEND16
 
